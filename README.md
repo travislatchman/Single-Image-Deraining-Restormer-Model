@@ -1,5 +1,7 @@
 # Single-Image-Deraining-Restormer-Model
 
+Collaborators: Yared Kokeb, Preston Gonzales, Jack Werrell
+
 ## Restormer
 
 A PyTorch implementation of Restormer based on CVPR 2022 paper
